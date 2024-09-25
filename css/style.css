@@ -1,0 +1,15 @@
+#login_id{
+    font-size: 35px; /* Aumenta o tamanho da fonte */
+    padding: 10px 100px; /* Aumenta o padding */
+}
+
+#userName_id{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#pwd_label{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* Then import Bootstrap */
+@import "../node_modules/bootstrap/scss/bootstrap";
