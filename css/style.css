@@ -1,14 +1,37 @@
+#div_1{
+    margin-top: 100px; /* Move a div 20px para baixo */
+}
+
 #login_id{
     font-size: 35px; /* Aumenta o tamanho da fonte */
     padding: 10px 100px; /* Aumenta o padding */
+    margin-left: 25px; /* Move o elemento para a direita */
 }
 
-#userName_id{
+#userName_label_id{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 25px;
+}
+
+#username{
+    margin-left: 25px;
 }
 
 #pwd_label{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 25px;
+}
+
+#password{
+    margin-left: 25px;
+}
+
+#confirmButton{
+    margin-left: 25px;
+}
+
+#ref_cadastro{
+    margin-left: 25px;
 }
 
 /* Then import Bootstrap */
